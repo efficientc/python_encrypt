@@ -1,4 +1,4 @@
-__author__ = 'Chase Schwab'
+__author__ = 'EfficientC'
 # this is a script that will decrypt a message back into the original string enter before it was passed through encryptall.py
 # 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&\'()*+,-./:;?@[\\]^_`{|}~
 # 56789abcdefghij01234klmnopqwxyzABCDErstuvFGHI$PQR./:;?@[STUVWXYZ!"#%JKLMNO&\'()*+,-\\]^_`{|}
