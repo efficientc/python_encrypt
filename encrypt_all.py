@@ -1,4 +1,4 @@
-__author__ = 'Chase Schwab'
+__author__ = 'EfficientC'
 # this is a script that will encrypt all characters a message into an illegible string of characters
 # 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&\'()*+,-./:;?@[\\]^_`{|}~
 # 56789abcdefghij01234klmnopqwxyzABCDErstuvFGHI$PQR./:;?@[STUVWXYZ!"#%JKLMNO&\'()*+,-\\]^_`{|}
